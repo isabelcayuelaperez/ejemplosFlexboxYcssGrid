@@ -1,6 +1,6 @@
 # ejemplos codigo Maquetación Flexbox y GRID
 Este repositorio contiene ejemplos de codigo Maquetación web con FLEX y GRID
-
+ 
 
 ## Información básica 
 
