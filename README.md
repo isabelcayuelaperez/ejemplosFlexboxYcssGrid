@@ -1,8 +1,8 @@
 # ejemplos codigo Maquetación Flexbox y GRID
 Este repositorio contiene ejemplos de codigo Maquetación web con FLEX y GRID
+ 
 
-
-## Información básica
+## Información básica 
 
 * Profesora: Isabel Cayuela Pérez
   * email: isabel.cayuela@iesalandalus.org
@@ -10,5 +10,5 @@ Este repositorio contiene ejemplos de codigo Maquetación web con FLEX y GRID
 
 ### Recursos adicionales
 
-* [Página de descargas de *Git*](https://github.com/isabelcayuelaperez/ejemplosMaquetacionWebConCSS)
+* [Página de descargas de *Git*](https://github.com/isabelcayuelaperez/ejemplosFlexboxYcssGrid)
 
